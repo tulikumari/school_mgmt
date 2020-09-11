@@ -1,3 +1,43 @@
+# School Management React App
+
+React Project of School Management with login & Registration Process.
+
+## For Demo of project
+
+Follow the link for DEMO ["Click here for DEMO"](https://tulikumari.github.io/school_mgmt/).
+
+## Screenshot of the Web App
+
+![](images/webapp.png)
+
+
+## Tutorial Blog Post
+
+### Introduction and Building a web app
+
+The following the tutorial for building an App ["Learn React by building an App — React Functionalities Explained"](https://reactjs.org/docs/create-a-new-react-app.html). Follow the instructions, fork this repo and build your web app.
+
+### Get Started The Any React app
+
+The following to get started the any react app sample ["How to started a React app in less than 5 minutes"](https://reactjs.org/docs/getting-started.html). Follow the instructions, to make a great website out of it.
+
+## Project Admin
+
+[![Relative date](https://img.shields.io/date/1599677821?color=important&label=started&logo=github)](https://github.com/tulikumari/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/tulikumari/)
+
+
+
+
+
+
+| :----------------------------------------------------------: |
+| **[Tuli Kumari](https://www.linkedin.com/in/tulikumari/)**  |
+
+[![GitHub followers](https://img.shields.io/github/followers/tulikumari.svg?label=Follow%20@tulikumari&style=social)](https://github.com/tulikumari/) [![Twitter Follow](https://img.shields.io/twitter/follow/tulikumari?style=social)](https://twitter.com/tulikumari) 
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/tulikumari/)
+
+==================================================================================================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
