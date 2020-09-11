@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
   "name": "school_mgmt",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://tulikumari.github.io/school_mgmt/",
+=======
+  "name": "app-login",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://tulikumari.github.io/app-login/",
+>>>>>>> ef9bd5f15771ddc432dd98291ef1a923ba043967
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
